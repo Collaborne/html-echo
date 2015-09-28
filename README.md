@@ -1,7 +1,7 @@
 html-echo
 =========
 
-`html-echo` dumps HTML bound to a String property directly into the DOM. The web component is built with [Polymer 1.x](https://www.polymer-project.org) and [D3](http://d3js.org).
+`html-echo` dumps HTML bound to a String property directly into the DOM. The web component is built with [Polymer 1.x](https://www.polymer-project.org).
 
 This components is hopefully obsolete sooner or later once Polymer supports directly dumping-HTML. See [Support question](https://github.com/Polymer/polymer/issues/1778#issuecomment-110072317)
 
