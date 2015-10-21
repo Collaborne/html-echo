@@ -24,7 +24,7 @@ Property     | Description
 
 ## Continuous integration
 
-[Travis-CI](https://travis-ci.org/Collaborne/html-echo) [![Travis state](https://api.travis-ci.org/Collaborne/html-echo.svg)](https://travis-ci.org/Collaborne/html-echo)
+[Travis-CI](https://travis-ci.org/Collaborne/html-echo) [![Travis state](https://travis-ci.org/Collaborne/html-echo.svg?branch=master)](https://travis-ci.org/Collaborne/html-echo)
 
 
 ## License
