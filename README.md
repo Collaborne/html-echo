@@ -17,9 +17,9 @@ This components is hopefully obsolete sooner or later once Polymer supports dire
 
 ## Properties
 
-Property | Description                                     |
--------- | ----------------------------------------------- |
-html     | Plain HTML that is directly dumped into the DOM |
+Property | Description                                    
+-------- | -----------------------------------------------
+html     | Plain HTML that is directly dumped into the DOM
 
 
 ## License
