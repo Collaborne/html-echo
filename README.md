@@ -22,6 +22,11 @@ Property     | Description
 **html**     | Plain HTML that is directly dumped into the DOM
 
 
+## Continuous integration
+
+[Travis-CI](https://travis-ci.org/Collaborne/html-echo): [![Travis state](https://api.travis-ci.org/Collaborne/html-echo.svg)]
+
+
 ## License
 
     This software is licensed under the Apache 2 license, quoted below.
