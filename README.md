@@ -5,6 +5,7 @@ html-echo [![Bower version](https://badge.fury.io/bo/html-echo.svg)](http://badg
 
 This components is hopefully obsolete sooner or later once Polymer supports directly dumping-HTML. See [Support question](https://github.com/Polymer/polymer/issues/1778#issuecomment-110072317)
 
+
 ## Usage
 
 `bower install html-echo`
@@ -12,6 +13,14 @@ This components is hopefully obsolete sooner or later once Polymer supports dire
 ```html
 <html-echo html="<b>Hi</b>"></html-echo>
 ```
+
+
+## Properties
+
+Property | Description                                     |
+-------- | ----------------------------------------------- |
+html     | Plain HTML that is directly dumped into the DOM |
+
 
 ## License
 
