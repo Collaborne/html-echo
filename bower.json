@@ -1,11 +1,11 @@
 {
-  "name": "echo-html",
+  "name": "html-echo",
   "version": "1.0.0",
   "authors": [
     "collaborne"
   ],
   "description": "Web component dumps HTML bound to a String property directly into the DOM (Polymer 1.x)",
-  "main": "echo-html.html",
+  "main": "html-echo.html",
   "keywords": [
     "web-components",
     "polymer",
