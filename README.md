@@ -1,7 +1,7 @@
 _[Demo and API Docs](http://collaborne.github.io/html-echo)_
 
 
-html-echo [![Bower version](https://badge.fury.io/bo/html-echo.svg)](http://badge.fury.io/bo/html-echo) [Travis-CI](https://travis-ci.org/Collaborne/html-echo) [![Travis state](https://travis-ci.org/Collaborne/html-echo.svg?branch=master)](https://travis-ci.org/Collaborne/html-echo)
+html-echo [![Bower version](https://badge.fury.io/bo/html-echo.svg)](http://badge.fury.io/bo/html-echo) [![Travis state](https://travis-ci.org/Collaborne/html-echo.svg?branch=master)](https://travis-ci.org/Collaborne/html-echo)
 =========
 
 `html-echo` dumps HTML bound to a String property directly into the DOM. The web component is built with [Polymer 1.x](https://www.polymer-project.org).
